@@ -1,0 +1,18 @@
+{
+  "name": "discordbot-gameserverstatus",
+  "version": "1.0.0",
+  "description": "A discord bot that syncs presence to game server's status",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "PepperKick",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.2.2",
+    "debug": "^4.1.1",
+    "discord.js": "^11.5.1",
+    "gamedig": "^2.0.14"
+  }
+}

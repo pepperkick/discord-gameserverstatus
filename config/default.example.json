@@ -1,0 +1,12 @@
+{
+  "bots": [
+    {
+      "token": "< bot token >",
+      "name": "< bot name >",
+      "ip": "< game server ip >",
+      "port": "< game server port >",
+      "game_type": "< game server type >",
+      "interval": "< status update interval >"
+    }
+  ]
+}
